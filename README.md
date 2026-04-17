@@ -25,4 +25,4 @@ Previously worked as a Marketing Controller at Hilti, delivering reporting solut
 
 
 
-Recently returned from a Working Holiday in Canada, where I focused on developing my technical skills and building BI projects.
+Recently returned from a Working Holiday in Canada.
