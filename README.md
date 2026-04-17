@@ -22,13 +22,15 @@ BI/Data Analyst with 2+ years of experience working with SQL and Power BI, focus
 
 \## 📊 Projects
 
-\- 🔹 \[Online Retail II – Data Analytics Project](https://github.com/matejovpeto/retail-UCI)  
+\- 🔹 \[Online Retail II – Data Analytics Project](https://github.com/matejovpeto/retail-UCI)
 
 &#x20; End-to-end BI project focused on revenue definition, transaction classification, and KPI reporting
 
 
 
-\- 🔹 \[Bank Marketing Analysis](https://github.com/matejovpeto/bank-marketing-analysis)  
+
+
+\- 🔹 \[Bank Marketing Analysis](https://github.com/matejovpeto/bank-marketing-analysis)
 
 &#x20; Campaign performance analysis with segmentation and macroeconomic impact
 
