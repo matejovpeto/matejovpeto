@@ -1,4 +1,4 @@
-\# Hi, I'm Peter 👋
+# Hi, I'm Peter 👋
 
 
 
@@ -6,23 +6,23 @@ BI/Data Analyst with 2+ years of experience working with SQL and Power BI, focus
 
 
 
-\## 🔧 Tech Stack
+## 🔧 Tech Stack
 
-\- SQL (data transformations, joins, aggregations, CTEs, window functions)
+- SQL (data transformations, joins, aggregations, CTEs, window functions)
 
-\- Power BI (data modeling, dashboards, DAX basics)
+- Power BI (data modeling, dashboards, DAX basics)
 
-\- Excel (Power Query, PivotTables)
+- Excel (Power Query, PivotTables)
 
-\- SAP BW, SAP Analytics Cloud
+- SAP BW, SAP Analytics Cloud
 
-\- Python (basics – Pandas, NumPy, Matplotlib)
+- Python (basics – Pandas, NumPy, Matplotlib)
 
 
 
-\## 📊 Projects
+## 📊 Projects
 
-\- 🔹 \[Online Retail II – Data Analytics Project](https://github.com/matejovpeto/retail-UCI)
+- 🔹 \[Online Retail II – Data Analytics Project](https://github.com/matejovpeto/retail-UCI)
 
 &#x20; End-to-end BI project focused on revenue definition, transaction classification, and KPI reporting
 
@@ -30,13 +30,13 @@ BI/Data Analyst with 2+ years of experience working with SQL and Power BI, focus
 
 
 
-\- 🔹 \[Bank Marketing Analysis](https://github.com/matejovpeto/bank-marketing-analysis)
+- 🔹 \[Bank Marketing Analysis](https://github.com/matejovpeto/bank-marketing-analysis)
 
 &#x20; Campaign performance analysis with segmentation and macroeconomic impact
 
 
 
-\## 📍 Background
+## 📍 Background
 
 Previously worked as a Marketing Controller at Hilti, delivering reporting solutions and data analysis for regional management.
 
@@ -46,7 +46,7 @@ Recently returned from a Working Holiday in Canada, where I focused on developin
 
 
 
-\## 📫 Contact
+## 📫 Contact
 
-\- LinkedIn: https://www.linkedin.com/in/peter-matejov-b9a85a9b/
+- LinkedIn: https://www.linkedin.com/in/peter-matejov-b9a85a9b/
 
